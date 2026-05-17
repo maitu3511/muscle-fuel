@@ -1,0 +1,24 @@
+{
+  "overview": "A premium single-product landing page for Muscle Fuel Whey Protein — built with a luxury black and red gym aesthetic, WhatsApp ordering integration, flavor and quantity selectors, reviews, and a mobile sticky action bar.",
+  "features": [
+    "Hero section with premium protein jar image, gym-themed visuals, and CTA buttons",
+    "Flavor and quantity selectors with real-time WhatsApp message customization",
+    "Pricing section with MRP, discount price, and offer badge",
+    "Customer reviews with 5-star ratings",
+    "Floating WhatsApp button on bottom-left",
+    "Sticky mobile bottom action bar",
+    "Glassmorphism effects and scroll animations",
+    "All CTAs open WhatsApp with pre-filled product inquiry messages"
+  ],
+  "category": "showcase",
+  "tags": [
+    "landing-page",
+    "ecommerce",
+    "whatsapp",
+    "fitness",
+    "supplement",
+    "protein",
+    "single-product"
+  ],
+  "last_updated": "2026-05-17T05:36:26.554Z"
+}
